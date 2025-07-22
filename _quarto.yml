@@ -1,0 +1,16 @@
+project:
+  type: onlimit-theme
+
+website:
+  title: "ON-LiMiT"
+  navbar: 
+    left:
+      - text: "Home"
+        href: index.qmd
+
+# --- Add this part in your _quarto.yml file to enable the ON-LiMiT theme ---
+format:
+  onlimit-theme-html:
+    theme:
+      - brand
+# ---
