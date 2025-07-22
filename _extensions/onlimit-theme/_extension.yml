@@ -1,5 +1,8 @@
-title: Onlimit-theme
-author: Signe Kirk Brødbæk
+title: onlimit-theme
+author: |
+  - Signe Kirk Brødbæk
+  - Daniel B. Ibsen
+  - Luke W. Johnston
 version: 1.0.0
 quarto-required: ">=1.6.0"
 contributes:
