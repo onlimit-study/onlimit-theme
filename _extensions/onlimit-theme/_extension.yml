@@ -6,6 +6,8 @@ contributes:
   formats:
     html:
       toc: true
+      from: markdown+emoji
+
   project:
     project:
       type: website
