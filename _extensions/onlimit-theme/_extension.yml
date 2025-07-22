@@ -6,5 +6,24 @@ contributes:
   formats:
     html:
       toc: true
-      theme: [yeti, custom.scss]
+  project:
+    project:
+      type: website
 
+    website:
+      page-navigation: true
+      navbar:
+        pinned: true
+        tools:
+        - icon: github
+          href: "https://github.com/onlimit-study/"
+          aria-label: "GitHub icon: Link to ON-LiMiT organization page"
+      search:
+        location: navbar
+        type: textbox
+      page-footer:
+        center:
+          - text: "License: CC BY 4.0"
+            href: https://creativecommons.org/licenses/by/4.0/
+
+    brand: _brand.yml
