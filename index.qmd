@@ -2,7 +2,8 @@
 
 This is an example page to demonstrate the ON-LiMiT theme.
 
-With this theme, you can create a consistent look and feel across the ON-LiMiT websites.
+With this theme, you can create a consistent look and feel across the
+ON-LiMiT websites.
 
 It includes features such as:
 
