@@ -1,0 +1,18 @@
+# Example Page
+
+This is an example page to demonstrate the ON-LiMiT theme.
+
+With this theme, you can create a consistent look and feel across the
+ON-LiMiT websites.
+
+It includes features such as:
+
+-   Emojis :rocket: :smile:
+
+-   ON-LiMiT images
+
+![](_extensions/onlimit-theme/images/logo.png)
+
+## Installation
+
+For installation instructions, refer to the [README.md](README.md) file.
