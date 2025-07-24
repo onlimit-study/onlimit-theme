@@ -25,7 +25,7 @@ contributes:
         tools:
         - icon: github
           href: "https://github.com/onlimit-study/"
-          aria-label: "GitHub icon: Link to ON-LiMiT organization page"
+          aria-label: "GitHub: Link to ON-LiMiT organization page"
       search:
         location: navbar
         type: textbox
