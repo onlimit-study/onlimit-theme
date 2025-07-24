@@ -1,9 +1,9 @@
 meta:
   name:
-    full: ON-LiMiT Theme
-    short: onlimit-theme
+    full: ON-LiMiT Study
+    short: ON-LiMiT
   link:
-    github: https://github.com/onlimit-study/onlimit-theme
+    github: https://onlimit.org
 
 color:
   primary: "#003878"

@@ -1,4 +1,4 @@
-# onlimit-theme format
+# Quarto extension for ON-LiMiT website theming
 
 This repository contains a Quarto extension with style files used across
 ON-LiMiT websites.
@@ -10,11 +10,10 @@ repository. You can do this by running the following command in the
 terminal from your project directory:
 
 ``` bash
-quarto use template on-limit/onlimit-theme
+quarto add on-limit/onlimit-theme
 ```
 
-This will install the extension and create an example index file,
-`index.qmd` that you can use as a starting place for your repository.
+This will install the extension by adding a `_extensions/` folder to the repository.
 
 ## Using
 
@@ -22,6 +21,9 @@ To use the ON-LiMiT theme, add following lines to your `_quarto.yml`
 file:
 
 ``` yaml
+project:
+  type: onlimit-theme
+
 format:
   onlimit-theme-html:
     theme:
