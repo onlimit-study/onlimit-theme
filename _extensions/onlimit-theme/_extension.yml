@@ -20,6 +20,8 @@ contributes:
       page-navigation: true
       navbar:
         pinned: true
+        logo: images/apple-logo.png
+        logo-alt: "ON-LiMiT: Main page"
         tools:
         - icon: github
           href: "https://github.com/onlimit-study/"
