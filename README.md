@@ -10,7 +10,7 @@ repository. You can do this by running the following command in the
 terminal from your project directory:
 
 ``` bash
-quarto add on-limit/onlimit-theme
+quarto add onlimit-study/onlimit-theme
 ```
 
 This will install the extension by adding a `_extensions/` folder to the repository.
