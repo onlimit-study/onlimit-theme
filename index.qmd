@@ -7,11 +7,11 @@ ON-LiMiT websites.
 
 It includes features such as:
 
--   Emojis :rocket: :smile:
+- Emojis :rocket: :smile:
 
--   ON-LiMiT images
+- ON-LiMiT images
 
-![](_extensions/onlimit-theme/images/logo.png)
+![](_extensions/onlimit-theme/images/onlimit.png)
 
 ## Installation
 

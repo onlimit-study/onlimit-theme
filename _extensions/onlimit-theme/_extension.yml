@@ -20,7 +20,7 @@ contributes:
       page-navigation: true
       navbar:
         pinned: true
-        logo: images/apple-logo.png
+        logo: images/onlimit-apple.png
         logo-alt: "ON-LiMiT: Main page"
       search:
         location: navbar
