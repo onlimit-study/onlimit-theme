@@ -26,7 +26,8 @@ contributes:
         location: navbar
         type: textbox
       page-footer:
-        center:
+        center: "![](_extensions/onlimit-theme/images/sdca.svg){height='40px'} ![](_extensions/onlimit-theme/images/au.svg){height='40px'} ![](_extensions/onlimit-theme/images/sdcc.svg){height='40px'} ![](_extensions/onlimit-theme/images/sdco.svg){height='40px'} ![](_extensions/onlimit-theme/images/ku.svg){height='40px'} ![](_extensions/onlimit-theme/images/bispebjerg.svg){height='40px'}"
+        right:
           - text: "License: CC BY 4.0"
             href: https://creativecommons.org/licenses/by/4.0/
 
