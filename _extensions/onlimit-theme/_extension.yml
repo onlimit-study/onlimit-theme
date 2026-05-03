@@ -26,7 +26,7 @@ contributes:
         location: navbar
         type: textbox
       page-footer:
-        center:
+        right:
           - text: "License: CC BY 4.0"
             href: https://creativecommons.org/licenses/by/4.0/
 
