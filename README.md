@@ -13,7 +13,12 @@ terminal from your project directory:
 quarto add onlimit-study/onlimit-theme
 ```
 
-This will install the extension by adding a `_extensions/` folder to the repository.
+
+To update the theme, run:
+
+```bash
+quarto update onlimit-study/onlimit-theme
+```
 
 ## Using
 
