@@ -11,8 +11,10 @@ It includes features such as:
 
 - ON LiMiT images
 
-![](_extensions/onlimit-theme/images/onlimit.png)
+![](/_extensions/onlimit-theme/images/onlimit.png)
 
 ## Installation
 
-For installation instructions, refer to the [README.md](README.md) file.
+For installation instructions, refer to the
+[README](https://github.com/onlimit-study/onlimit-theme) in the GitHub
+repository.
