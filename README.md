@@ -5,21 +5,28 @@ ON-LiMiT websites.
 
 ## Installing
 
-To use this format, you need to install the extension in your
-repository. You can do this by running the following command in the
-terminal from your project directory:
+To use this format, you need to install the extension in your repository. You
+can do this by running the following command in the terminal from your project
+directory:
 
-``` bash
+```bash
 quarto add onlimit-study/onlimit-theme
 ```
 
-This will install the extension by adding a `_extensions/` folder to the repository.
+This will install the extension by adding a `_extensions/` folder to the
+repository.
+
+To update the theme, run:
+
+```bash
+quarto update onlimit-study/onlimit-theme
+```
 
 ## Using
 
 To use the ON LiMiT theme, add following lines to your `_quarto.yml` file:
 
-``` yaml
+```yaml
 project:
   type: onlimit-theme
 
@@ -31,8 +38,7 @@ format:
 
 ## Example
 
-Here is the source code for a minimal sample document:
-[index.qmd](index.qmd).
+Here is the source code for a minimal sample document: [index.qmd](index.qmd).
 
 ## Features
 
