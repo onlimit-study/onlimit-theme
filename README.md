@@ -1,4 +1,4 @@
-# Quarto extension for ON-LiMiT website theming
+# Quarto extension for ON LiMiT website theming
 
 This repository contains a Quarto extension with style files used across
 ON-LiMiT websites.
@@ -17,8 +17,7 @@ This will install the extension by adding a `_extensions/` folder to the reposit
 
 ## Using
 
-To use the ON-LiMiT theme, add following lines to your `_quarto.yml`
-file:
+To use the ON LiMiT theme, add following lines to your `_quarto.yml` file:
 
 ``` yaml
 project:
@@ -37,10 +36,10 @@ Here is the source code for a minimal sample document:
 
 ## Features
 
-This is a simple theme that provides a colour scheme for the ON-LiMiT
-websites. It includes:
+This is a simple theme that provides a colour scheme for the ON LiMiT websites.
+It includes:
 
--   A consistent navbar
--   ON-LiMiT logo and favicon
--   Fonts
--   Emojis
+- A consistent navbar
+- ON LiMiT logo and favicon
+- Fonts
+- Emojis
